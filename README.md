@@ -22,6 +22,7 @@
 	"max": "maximum",
 	"ml": "millimeter",
 	"no": "number",
+	"num": "number",
 	"sec": "second",
 	"tel": "telephone",
 	"bg": "background",
@@ -63,9 +64,58 @@
 	"reg": "register",
 	"dl": "download", // 自定义
 	"cnt": "content",
-	"cp": "copy"
+	"cp": "copy",
+	"lk": "lock", // 参看windows键盘
+	"scr": "screen", // 参看windows键盘
+	"del": "delete", // 参看windows键盘
+	"ins": "insert", // 参看windows键盘
+	"dn": "down", // 参看windows键盘
+	"pg": "page"
 }
 ```
 
+### 布局通用
+
+| 语义 | 命名 |
+| :--: | :--: |
+|布局|layout|
+|主体内容|container|
+|头部|header|
+|主要部分|main|
+|侧边栏|sidebar|
+|子容器|sub-|
+|包含块|-wrap|
+|行|row|
+|列|column|
+|区域|region/area/section|
+|底部|footer|
+
+### 模块名
+
+| 语义 | 命名 |
+| :--: | :--: |
+|导航|nav|
+|面包屑|crumb|
+|菜单|menu|
+|选项卡|tab|
+|内容|content|
+|列表|list|
+|排行|rank|
+|商标|logo|
+|幻灯片|slide|
+|提示|tip/msg/hint|
+|注册|register|
+|弹出框|dialog|
+|合作伙伴|partner|
+|工具条|toolbar|
+|标语|banner|
+
+
+
+
 ### 欢迎补充
 毕竟一个人的能力是有限的，希望得到大家的支持，来为代码可维护性做一点努力
+
+
+### 参考资料
+[UI组件规范](http://huixisheng.github.io/fed/docs/ui-coding-style.html)
