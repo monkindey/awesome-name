@@ -70,7 +70,11 @@
 	"del": "delete", // 参看windows键盘
 	"ins": "insert", // 参看windows键盘
 	"dn": "down", // 参看windows键盘
-	"pg": "page"
+	"pg": "page",
+	"conf": "configuration",
+	"env": "environment",
+	"exec": "execute",
+	"dist": "distribution"
 }
 ```
 
@@ -109,6 +113,8 @@
 |合作伙伴|partner|
 |工具条|toolbar|
 |标语|banner|
+|版权|copyright|
+
 
 
 
