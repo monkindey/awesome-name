@@ -74,7 +74,11 @@
 	"conf": "configuration",
 	"env": "environment",
 	"exec": "execute",
-	"dist": "distribution"
+	"dist": "distribution",
+	"ls": "list", // linux
+	"app": "application",
+	"res": "response",
+	"req": "request"
 }
 ```
 
@@ -93,6 +97,7 @@
 |列|column|
 |区域|region/area/section|
 |底部|footer|
+
 
 ### 模块名
 
@@ -114,8 +119,8 @@
 |工具条|toolbar|
 |标语|banner|
 |版权|copyright|
-
-
+|评论|comment|
+|面板|panel|
 
 
 
