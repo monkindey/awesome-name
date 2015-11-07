@@ -76,9 +76,16 @@
 	"exec": "execute",
 	"dist": "distribution",
 	"ls": "list", // linux
-	"app": "application",
-	"res": "response",
-	"req": "request"
+	"app": "application", //express
+	"res": "response", //express
+	"req": "request", //express
+	"md": "markdown",
+	"conf": "conference",
+	"repo": "repository",
+	"tpl": "template",
+	"el": "element",
+	"opt": "option",
+	"cmd": "command"  // windows cmd
 }
 ```
 
@@ -97,6 +104,7 @@
 |列|column|
 |区域|region/area/section|
 |底部|footer|
+|清除浮动|clearfix|
 
 
 ### 模块名
@@ -121,6 +129,9 @@
 |版权|copyright|
 |评论|comment|
 |面板|panel|
+|手风琴|accordion|
+|加载|loading|
+|头像|avatar|
 
 
 
