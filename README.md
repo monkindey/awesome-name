@@ -86,7 +86,12 @@
 	"tpl": "template",
 	"el": "element",
 	"opt": "option",
-	"cmd": "command"  // windows cmd
+	"cmd": "command",  // windows cmd
+	"calc": "calculator",
+	"api": "Application Programming Interface",
+	"fn": "function",
+	"mod": "module",
+	"intro": "introduction"
 }
 ```
 
@@ -101,11 +106,14 @@
 |侧边栏|sidebar|
 |子容器|sub-|
 |包含块|-wrap|
+|内部的|-inner|
+|外部的|-outer|
 |行|row|
 |列|column|
 |区域|region/area/section|
 |底部|footer|
 |清除浮动|clearfix|
+|项|item|
 
 
 ### 模块名
