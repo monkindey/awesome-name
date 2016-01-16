@@ -12,83 +12,81 @@
  * 2. 元音剔除法：只保留辅音字母 如 msg src mgr (辅音字母即是除aeiou之外的字符)
  * 3. 谐音法：如 4 2 r
  */
-
 {
-	"to": "2"
-	"for": "4"
-	"address": "addr"
-	"administrator": "admin"
-	"anlys": "analysis"
-	"Application Programming: "Interface"" api
-	"application": "app"
-	"avenue": "ave"
-	"body": "bd"
-	"background": "bg"
-	"business": "biz"
-	"button": "btn"
-	"calculator": "calc"
-	"command": "cmd"
-	"content": "cnt"
-	"column": "col"
-	"conference": "conf"
-	"copy": "cp"
-	"control": "ctrl"
-	"delete": "del"
-	"distribution": "dist"
-	"do it: "yourself"" diy
-	"download": "dl"
-	"down": "dn"
-	"document": "doc"
-	"element": "el"
-	"environment": "env"
-	"escape": "esc"
-	"execute": "exec"
-	"frequently asked: "questions"" faqs
-	"function": "fn"
-	"footer": "ft"
-	"header": "hd"
-	"identity card:"" id"
-	"image": "img"
-	"information": "info"
-	"insert": "ins"
-	"introduction": "intro"
-	"label": "lbl"
-	"library": "lib"
-	"lock": "lk"
-	"list": "ls"
-	"maximum": "max"
-	"markdown": "md"
-	"manager": "mgr"
-	"minimum": "min"
-	"millimeter": "ml"
-	"module": "mod"
-	"message": "msg"
-	"move": "mv"
-	"navigation": "nav"
-	"number": "no"
-	"number": "num"
-	"option": "opt"
-	"parameter": "param"
-	"page": "pg"
-	"picture": "pic"
-	"position": "pos"
-	"password": "pwd"
-	"are": "r"
-	"register": "reg"
-	"repository": "repo"
-	"request": "req"
-	"response": "res"
-	"remove": "rm"
-	"screen": "scr"
-	"second": "sec"
-	"srv": "server"
-	"source": "src"
-	"system": "sys"
-	"telephone": "tel"
-	"temp": "tmp"
-	"template": "tpl"
-	"user": "usr"
-	"window": "win"
+	address: "addr",
+	administrator: "admin",
+	anlys: "analysis",
+	application: "app",
+	application programming interface: "api",
+	are: "r",
+	avenue: "ave",
+	background: "bg",
+	body: "bd",
+	business: "biz",
+	button: "btn",
+	calculator: "calc",
+	column: "col",
+	command: "cmd",
+	conference: "conf",
+	content: "cnt",
+	control: "ctrl",
+	copy: "cp",
+	delete: "del",
+	distribution: "dist",
+	do it yourself: "diy",
+	document: "doc",
+	down: "dn",
+	download: "dl",
+	element: "el",
+	environment: "env",
+	escape: "esc",
+	execute: "exec",
+	footer: "ft",
+	for: "4",
+	frequently asked questions: "faqs",
+	function: "fn",
+	header: "hd",
+	identity card: "id",
+	image: "img",
+	information: "info",
+	insert: "ins",
+	introduction: "intro",
+	label: "lbl",
+	library: "lib",
+	list: "ls",
+	lock: "lk",
+	manager: "mgr",
+	markdown: "md",
+	maximum: "max",
+	message: "msg",
+	millimeter: "ml",
+	minimum: "min",
+	module: "mod",
+	move: "mv",
+	navigation: "nav",
+	number: "num",
+	option: "opt",
+	page: "pg",
+	parameter: "param",
+	password: "pwd",
+	picture: "pic",
+	position: "pos",
+	register: "reg",
+	remove: "rm",
+	repository: "repo",
+	request: "req",
+	response: "res",
+	screen: "scr",
+	second: "sec",
+	source: "src",
+	srv: "server",
+	system: "sys",
+	telephone: "tel",
+	temp: "tmp",
+	template: "tpl",
+	to: "2",
+	user: "usr",
+	window: "win"
 }
 ```
 
