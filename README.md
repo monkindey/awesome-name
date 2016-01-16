@@ -14,81 +14,81 @@
  */
 
 {
-	"to": 2
-	"for": 4
-	"address": addr
-	"administrator": admin
-	"anlys": analysis
-	"Application Programming: Interface" api
-	"application": app
-	"avenue": ave
-	"body": bd
-	"background": bg
-	"business": biz
-	"button": btn
-	"calculator": calc
-	"command": cmd
-	"content": cnt
-	"column": col
-	"conference": conf
-	"copy": cp
-	"control": ctrl
-	"delete": del
-	"distribution": dist
-	"do it: yourself" diy
-	"download": dl
-	"down": dn
-	"document": doc
-	"element": el
-	"environment": env
-	"escape": esc
-	"execute": exec
-	"frequently asked: questions" faqs
-	"function": fn
-	"footer": ft
-	"header": hd
-	"identity card:" id
-	"image": img
-	"information": info
-	"insert": ins
-	"introduction": intro
-	"label": lbl
-	"library": lib
-	"lock": lk
-	"list": ls
-	"maximum": max
-	"markdown": md
-	"manager": mgr
-	"minimum": min
-	"millimeter": ml
-	"module": mod
-	"message": msg
-	"move": mv
-	"navigation": nav
-	"number": no
-	"number": num
-	"option": opt
-	"parameter": param
-	"page": pg
-	"picture": pic
-	"position": pos
-	"password": pwd
-	"are": r
-	"register": reg
-	"repository": repo
-	"request": req
-	"response": res
-	"remove": rm
-	"screen": scr
-	"second": sec
-	"srv": server
-	"source": src
-	"system": sys
-	"telephone": tel
-	"temp": tmp
-	"template": tpl
-	"user": usr
-	"window": win
+	"to": "2"
+	"for": "4"
+	"address": "addr"
+	"administrator": "admin"
+	"anlys": "analysis"
+	"Application Programming: "Interface"" api
+	"application": "app"
+	"avenue": "ave"
+	"body": "bd"
+	"background": "bg"
+	"business": "biz"
+	"button": "btn"
+	"calculator": "calc"
+	"command": "cmd"
+	"content": "cnt"
+	"column": "col"
+	"conference": "conf"
+	"copy": "cp"
+	"control": "ctrl"
+	"delete": "del"
+	"distribution": "dist"
+	"do it: "yourself"" diy
+	"download": "dl"
+	"down": "dn"
+	"document": "doc"
+	"element": "el"
+	"environment": "env"
+	"escape": "esc"
+	"execute": "exec"
+	"frequently asked: "questions"" faqs
+	"function": "fn"
+	"footer": "ft"
+	"header": "hd"
+	"identity card:"" id"
+	"image": "img"
+	"information": "info"
+	"insert": "ins"
+	"introduction": "intro"
+	"label": "lbl"
+	"library": "lib"
+	"lock": "lk"
+	"list": "ls"
+	"maximum": "max"
+	"markdown": "md"
+	"manager": "mgr"
+	"minimum": "min"
+	"millimeter": "ml"
+	"module": "mod"
+	"message": "msg"
+	"move": "mv"
+	"navigation": "nav"
+	"number": "no"
+	"number": "num"
+	"option": "opt"
+	"parameter": "param"
+	"page": "pg"
+	"picture": "pic"
+	"position": "pos"
+	"password": "pwd"
+	"are": "r"
+	"register": "reg"
+	"repository": "repo"
+	"request": "req"
+	"response": "res"
+	"remove": "rm"
+	"screen": "scr"
+	"second": "sec"
+	"srv": "server"
+	"source": "src"
+	"system": "sys"
+	"telephone": "tel"
+	"temp": "tmp"
+	"template": "tpl"
+	"user": "usr"
+	"window": "win"
 }
 ```
 
