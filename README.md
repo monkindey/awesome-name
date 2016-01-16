@@ -3,9 +3,7 @@
 说到底就是为了代码的`可维护性`，所以想把之前写代码中经常用到的命名记录下来。
 更多是让命名变得更容易。
 
-### 简写
-
-> 有利于代码的简洁
+### 变量名
 
 ```javascript
 /**
@@ -14,84 +12,83 @@
  * 2. 元音剔除法：只保留辅音字母 如 msg src mgr (辅音字母即是除aeiou之外的字符)
  * 3. 谐音法：如 4 2 r
  */
+
 {
-	"biz": "business",
-	"ave": "avenue",
-	"id": "identity card",
-	"min": "minute",
-	"min": "minimum",
-	"max": "maximum",
-	"ml": "millimeter",
-	"no": "number",
-	"num": "number",
-	"sec": "second",
-	"tel": "telephone",
-	"bg": "background",
-	"ctrl": "control",
-	"doc": "document",
-	"esc": "escape",
-	"info": "information",
-	"img": "image",
-	"lib": "library",
-	"mgr": "manager",
-	"msg": "message",
-	"pwd": "password",
-	"pic": "picture",
-	"pos": "position",
-	"src": "source",
-	"param": "parameter",
-	"sys": "system",
-	"admin": "administrator",
-	"btn": "button",
-	"addr": "address",
-	"4": "for",
-	"2": "to",
-	"analysis": "anlys", // 自定义
-	"diy": "do it yourself",
-	"r": "are",
-	"rm": "remove",
-	"mv": "move",
-	"server": "srv",
-	"usr": "user",
-	"tmp": "temp",
-	"win": "window",
-	"bd": "body",
-	"hd": "header",
-	"nav": "navigation",
-	"faqs": "frequently asked questions",
-	"ft": "footer",
-	"col": "column",
-	"lbl": "label", // 自定义
-	"reg": "register",
-	"dl": "download", // 自定义
-	"cnt": "content",
-	"cp": "copy",
-	"lk": "lock", // 参看windows键盘
-	"scr": "screen", // 参看windows键盘
-	"del": "delete", // 参看windows键盘
-	"ins": "insert", // 参看windows键盘
-	"dn": "down", // 参看windows键盘
-	"pg": "page",
-	"conf": "configuration",
-	"env": "environment",
-	"exec": "execute",
-	"dist": "distribution",
-	"ls": "list", // linux
-	"app": "application", //express
-	"res": "response", //express
-	"req": "request", //express
-	"md": "markdown",
-	"conf": "conference",
-	"repo": "repository",
-	"tpl": "template",
-	"el": "element",
-	"opt": "option",
-	"cmd": "command",  // windows cmd
-	"calc": "calculator",
-	"api": "Application Programming Interface",
-	"fn": "function",
-	"mod": "module",
-	"intro": "introduction"
+	"to": 2
+	"for": 4
+	"address": addr
+	"administrator": admin
+	"anlys": analysis
+	"Application Programming: Interface" api
+	"application": app
+	"avenue": ave
+	"body": bd
+	"background": bg
+	"business": biz
+	"button": btn
+	"calculator": calc
+	"command": cmd
+	"content": cnt
+	"column": col
+	"conference": conf
+	"copy": cp
+	"control": ctrl
+	"delete": del
+	"distribution": dist
+	"do it: yourself" diy
+	"download": dl
+	"down": dn
+	"document": doc
+	"element": el
+	"environment": env
+	"escape": esc
+	"execute": exec
+	"frequently asked: questions" faqs
+	"function": fn
+	"footer": ft
+	"header": hd
+	"identity card:" id
+	"image": img
+	"information": info
+	"insert": ins
+	"introduction": intro
+	"label": lbl
+	"library": lib
+	"lock": lk
+	"list": ls
+	"maximum": max
+	"markdown": md
+	"manager": mgr
+	"minimum": min
+	"millimeter": ml
+	"module": mod
+	"message": msg
+	"move": mv
+	"navigation": nav
+	"number": no
+	"number": num
+	"option": opt
+	"parameter": param
+	"page": pg
+	"picture": pic
+	"position": pos
+	"password": pwd
+	"are": r
+	"register": reg
+	"repository": repo
+	"request": req
+	"response": res
+	"remove": rm
+	"screen": scr
+	"second": sec
+	"srv": server
+	"source": src
+	"system": sys
+	"telephone": tel
+	"temp": tmp
+	"template": tpl
+	"user": usr
+	"window": win
 }
 ```
 
@@ -116,7 +113,7 @@
 |项|item|
 
 
-### 模块名
+### 模块
 
 | 语义 | 命名 |
 | :--: | :--: |
