@@ -11,14 +11,12 @@ promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
 
 ### 变量名
 
+1. __截头法__：取单词前几个字母 如 min sec tel
+2. __元音剔除法__：只保留辅音字母 如 msg src mgr (辅音字母即是除aeiou之外的字符)
+3. __谐音法__：如 4 2 r
+4. 参考__HTML标签__、__zepto__ __jquery__库、__linux命令__等命名
+
 ```javascript
-/**
- * 缩写命名规则
- * 1. 截头法：取单词前几个字母 如 min sec tel
- * 2. 元音剔除法：只保留辅音字母 如 msg src mgr (辅音字母即是除aeiou之外的字符)
- * 3. 谐音法：如 4 2 r
- * 4. 参考HTML标签、zepto jquery库、linux命令等命名
- */
 {
 	"abbreviation": "abbr", //参考HTML标签命名
 	"address": "addr",
