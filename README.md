@@ -114,7 +114,22 @@ promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
 
 ```javascript
 var prefix = {
-	re: '再来一次'
+	re: '再来一次',
+	pre: '之前', // precompile
+	post: '之后', // PostCSS
+	multi: '很多'
+}
+```
+
+### 后缀
+
+```javascript
+var postfix = {
+	ed: '过去式', 
+	ing: '进行时',
+	able: '具备某个能力', // deletable
+	es: '名称复数',
+	s: '名词复数'
 }
 ```
 
