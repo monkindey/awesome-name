@@ -22,7 +22,7 @@ promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
 	"abbreviation": "abbr", //参考HTML标签命名
 	"address": "addr",
 	"administrator": "admin",
-	"anlys": "analysis",
+	"analysis": "anlys",
 	"application": "app",
 	"application programming interface": "api",
 	"are": "r",
