@@ -16,6 +16,7 @@ promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
 2. __元音剔除法__：只保留辅音字母 如 msg src mgr (辅音字母即是除aeiou之外的字符)
 3. __谐音法__：如 4 2 r
 4. 参考__HTML标签__、__zepto__ __jquery__库、__linux命令__等命名
+5. __其他__: [tj counties](https://github.com/component/countries)：很多国家名的缩写
 
 ```javascript
 {
@@ -108,6 +109,8 @@ promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
 	"window": "win"
 }
 ```
+
+
 
 ### 前缀
 
