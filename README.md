@@ -45,6 +45,7 @@ promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
 	"control": "ctrl",
 	"copy": "cp",
 	"delete": "del",
+	"dependency": "dep",
 	"distribution": "dist",
 	"division": "div", // HTML标签
 	"do it yourself": "diy",
@@ -97,6 +98,7 @@ promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
 	"response": "res",
 	"screen": "scr",
 	"second": "sec",
+	"something": "sth",
 	"source": "src",
 	"srv": "server",
 	"system": "sys",
