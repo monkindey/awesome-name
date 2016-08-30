@@ -122,7 +122,8 @@ var prefix = {
 	pre: '之前', // precompile
 	post: '之后', // PostCSS
 	multi: '很多',
-	ex: '前任'
+	ex: '前任',
+	un: '不' // unobtrusive
 }
 ```
 
