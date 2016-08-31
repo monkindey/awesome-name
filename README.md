@@ -102,6 +102,7 @@ promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
 	"source": "src",
 	"srv": "server",
 	"system": "sys",
+	"table": "tbl",
 	"telephone": "tel",
 	"temp": "tmp",
 	"template": "tpl",
