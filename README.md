@@ -46,6 +46,7 @@ promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
 	"copy": "cp",
 	"delete": "del",
 	"dependency": "dep",
+	"develop": "dev",
 	"distribution": "dist",
 	"division": "div", // HTML标签
 	"do it yourself": "diy",
