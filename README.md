@@ -35,6 +35,7 @@ promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
 	"body": "bd",
 	"business": "biz",
 	"button": "btn",
+	"buffer": "buf",
 	"calculator": "calc",
 	"column": "col",
 	"command": "cmd",
