@@ -27,6 +27,7 @@ promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
 	"application": "app",
 	"application programming interface": "api",
 	"are": "r",
+	"architecture": "arch",
 	"ascending": "asc",
 	"attribute": "attr",
 	"authentication": "auth",
