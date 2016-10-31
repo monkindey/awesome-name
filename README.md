@@ -1,3 +1,5 @@
+# Awesome Name [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ### 背景
 
 1. 代码命名有时候是很头疼的事情，又要`语义化`又要`简洁`又要`大众化`，说到底是为了代码的`可维护性`，所以想把之前写代码中经常用到的命名记录下来。
