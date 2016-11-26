@@ -1,28 +1,35 @@
 # Awesome Name [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-### 背景
+### Why
 
-1. 代码命名有时候是很头疼的事情，又要`语义化`又要`简洁`又要`大众化`，说到底是为了代码的`可维护性`，所以想把之前写代码中经常用到的命名记录下来。
+1. how to name the variable is a headache thing, not only the semantic and simple, but also
+universal. After all, just for the maintainability. So i want to record the name frequently used.
 
-2. 更多是让命名变得更容易，编写代码效率更快，慢慢地喜欢上自己的代码，因为你的代码能告诉别人另外的一种感觉，耐人寻味，把你的代码变成艺术品。比如：
+2. More for the easily name and code efficiently. Little by little we can enjoy our code, because your 
+code can make another sense to others, afford for thought. Such as:
+	
+	* __Promise__: I didn't know Why the JavaScript's Asynchronous Programming Standard was called
+	__Promise__. But when i thought it in deepth, i got it. When we fetch some data from the server,
+	we didn't kown whether the response or not. What the Promise meaning is you have my word, i will
+	promise to give your response, whether success or failure.
 
-	* `promise`, 之前不知道javascript异步编程的某个基准为啥叫`promise`，
-	仔细琢磨了下，感觉意思很耐人寻味。比如javascript异步请求某个数据，它不知道有没有回应，
-	promise这个意思就是告诉你我会承诺给你回应的，多么浪漫;
-	* `jquery` 的 `on` `off`来监听和销毁事件等简单易用也形象;
-	* `fork` github git linux的fork操作，相当于你用餐叉选中你喜欢吃的食物，然后你要怎么吃随便你
+	* __on__ and __off__ in __JQuery__: simple, easy and visual.
+	* __fork__: you can use fork to select what your favorite food and eat at your disposal
 
-### 缩写
 
-1. __截头法__：取单词前几个字母 如 min sec tel
-2. __元音剔除法__：只保留辅音字母 如 msg src mgr (辅音字母即是除aeiou之外的字符)
-3. __谐音法__：如 4 2 r
-4. 参考__HTML标签__、__zepto__ __jquery__库、__linux命令__等命名
-5. __其他__: [tj counties](https://github.com/component/countries)：很多国家名的缩写
+### Abbreviation
+
+#### How
+
+1. grab some letters in front of the words: __min__ __sec__ __tel__
+2. remove the vowel and keep the consonant: __msg__ __src__ __mgr__
+3. use the homophonic letter to replace: __4__ __2__ __r__
+4. reference to __HTML tag__、__zepto__ __jquery__ and other library、__linux command__
+5. __other__: [tj countries](https://github.com/component/countries)：many countries
 
 ```javascript
 {
-	"abbreviation": "abbr", //参考HTML标签命名
+	"abbreviation": "abbr", //HTML tag
 	"address": "addr",
 	"administrator": "admin",
 	"analysis": "anlys",
@@ -52,7 +59,7 @@
 	"dependency": "dep",
 	"develop": "dev",
 	"distribution": "dist",
-	"division": "div", // HTML标签
+	"division": "div", // HTML tag
 	"do it yourself": "diy",
 	"document": "doc",
 	"down": "dn",
@@ -118,88 +125,71 @@
 }
 ```
 
+### Prefix
+
+1. re
+2. pre: precompile
+3. post: PostCSS
+4. multi
+5. ex
+6. un
+7. per
+
+### Postfix
+
+1. ed
+2. ing
+3. able: deletable
+4. es
+5. s
 
 
-### 前缀
+### Layout
 
-```javascript
-var prefix = {
-	re: '再来一次',
-	pre: '之前', // precompile
-	post: '之后', // PostCSS
-	multi: '很多',
-	ex: '前任',
-	un: '不', // unobtrusive
-	per: '每一个'
-}
-```
-
-### 后缀
-
-```javascript
-var postfix = {
-	ed: '过去式', 
-	ing: '进行时',
-	able: '具备某个能力', // deletable
-	es: '名称复数',
-	s: '名词复数'
-}
-```
+* container 
+* header 
+* main 
+* sidebar 
+* sub- 
+* -wrap 
+* -inner 
+* -outer 
+* row 
+* column 
+* footer 
+* clearfix 
+* item 
 
 
-### 布局
+### Module
 
-| 语义 | 命名 |
-| :--: | :--: |
-|布局|layout|
-|主体内容|container|
-|头部|header|
-|主要部分|main|
-|侧边栏|sidebar|
-|子容器|sub-|
-|包含块|-wrap|
-|内部的|-inner|
-|外部的|-outer|
-|行|row|
-|列|column|
-|区域|region/area/section|
-|底部|footer|
-|清除浮动|clearfix|
-|项|item|
-
-
-### 模块
-
-| 语义 | 命名 |
-| :--: | :--: |
-|导航|nav|
-|面包屑|crumb|
-|菜单|menu|
-|选项卡|tab|
-|内容|content|
-|列表|list|
-|排行|rank|
-|商标|logo|
-|幻灯片|slide|
-|提示|tip/msg/hint|
-|注册|register|
-|弹出框|dialog/model|
-|合作伙伴|partner|
-|工具条|toolbar|
-|标语|banner|
-|版权|copyright|
-|评论|comment|
-|面板|panel|
-|手风琴|accordion|
-|加载|loading|
-|头像|avatar|
-|标签|tag|
-|表格|table|
+* nav 
+* crumb 
+* menu 
+* tab 
+* content 
+* list 
+* rank 
+* logo 
+* slide 
+* tip/hint 
+* register 
+* model 
+* partner 
+* toolbar 
+* banner 
+* copyright 
+* comment 
+* panel 
+* accordion 
+* loading 
+* avatar 
+* tag 
+* table 
 
 
-### 欢迎补充
-毕竟一个人的能力是有限的，希望得到大家的支持，来为代码可维护性做一点努力
+### Contribute
+enjoy the code
 
-
-### 参考资料
+### Reference
 [UI组件规范](http://huixisheng.github.io/fed/docs/ui-coding-style.html)
