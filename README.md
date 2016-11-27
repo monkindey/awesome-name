@@ -2,8 +2,8 @@
 
 ### Why
 
-1. how to name the variable is a headache thing, not only the semantic and simple, but also
-universal. After all, just for the maintainability. So i want to record the name frequently used.
+1. How to name the variable is a headache thing, not only the semantic and simple, but also
+universal. After all, just for the maintainability. So I want to record the name frequently used.
 
 2. More for the easily name and code efficiently. Little by little we can enjoy our code, because your 
 code can make another sense to others, afford for thought. Such as:
