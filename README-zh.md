@@ -20,186 +20,27 @@
 4. 参考__HTML标签__、__zepto__ __jquery__库、__linux命令__等命名
 5. __其他__: [tj counties](https://github.com/component/countries)：很多国家名的缩写
 
-```javascript
-{
-	"abbreviation": "abbr", //参考HTML标签命名
-	"address": "addr",
-	"administrator": "admin",
-	"analysis": "anlys",
-	"application": "app",
-	"application programming interface": "api",
-	"are": "r",
-	"architecture": "arch",
-	"ascending": "asc",
-	"attribute": "attr",
-	"authentication": "auth",
-	"avenue": "ave",
-	"background": "bg",
-	"body": "bd",
-	"business": "biz",
-	"button": "btn",
-	"buffer": "buf",
-	"calculator": "calc",
-	"column": "col",
-	"command": "cmd",
-	"conference": "conf",
-	"constant": "const",
-	"content": "cnt",
-	"context": "cxt",
-	"control": "ctrl",
-	"copy": "cp",
-	"delete": "del",
-	"dependency": "dep",
-	"develop": "dev",
-	"distribution": "dist",
-	"division": "div", // HTML标签
-	"do it yourself": "diy",
-	"document": "doc",
-	"down": "dn",
-	"download": "dl",
-	"element": "el",
-	"environment": "env",
-	"evaluate": "eval",
-	"escape": "esc",
-	"execute": "exec",
-	"footer": "ft",
-	"for": "4",
-	"format": "fmt",
-	"frequently asked questions": "faqs",
-	"function": "fn",
-	"header": "hd",
-	"identity card": "id",
-	"image": "img",
-	"information": "info",
-	"insert": "ins",
-	"introduction": "intro",
-	"label": "lbl",
-	"library": "lib",
-	"list": "ls",
-	"lock": "lk",
-	"manager": "mgr",
-	"markdown": "md",
-	"maximum": "max",
-	"message": "msg",
-	"millimeter": "ml",
-	"minimum": "min",
-	"module": "mod",
-	"move": "mv",
-	"multiply": "mul",
-	"navigation": "nav",
-	"number": "num",
-	"option": "opt",
-	"package": "pkg",
-	"page": "pg",
-	"parameter": "param",
-	"password": "pwd",
-	"picture": "pic",
-	"position": "pos",
-	"property": "prop",
-	"register": "reg",
-	"remove": "rm",
-	"repository": "repo",
-	"request": "req",
-	"response": "res",
-	"screen": "scr",
-	"second": "sec",
-	"something": "sth",
-	"source": "src",
-	"srv": "server",
-	"system": "sys",
-	"table": "tbl",
-	"telephone": "tel",
-	"temp": "tmp",
-	"template": "tpl",
-	"to": "2",
-	"user": "usr",
-	"value": "val",
-	"window": "win"
-}
-```
-
-
+[缩写相关例子](./examples/abbr.md)
 
 ### 前缀
 
-```javascript
-var prefix = {
-	re: '再来一次',
-	pre: '之前', // precompile
-	post: '之后', // PostCSS
-	multi: '很多',
-	ex: '前任',
-	un: '不', // unobtrusive
-	per: '每一个'
-}
-```
+[前缀相关例子](./examples/prefix.md)
 
 ### 后缀
 
-```javascript
-var postfix = {
-	ed: '过去式', 
-	ing: '进行时',
-	able: '具备某个能力', // deletable
-	es: '名称复数',
-	s: '名词复数'
-}
-```
-
+[后缀相关例子](./examples/postfix.md)
 
 ### 布局
 
-| 语义 | 命名 |
-| :--: | :--: |
-|布局|layout|
-|主体内容|container|
-|头部|header|
-|主要部分|main|
-|侧边栏|sidebar|
-|子容器|sub-|
-|包含块|-wrap|
-|内部的|-inner|
-|外部的|-outer|
-|行|row|
-|列|column|
-|区域|region/area/section|
-|底部|footer|
-|清除浮动|clearfix|
-|项|item|
-
+[布局相关例子](./examples/layout.md)
 
 ### 模块
 
-| 语义 | 命名 |
-| :--: | :--: |
-|导航|nav|
-|面包屑|crumb|
-|菜单|menu|
-|选项卡|tab|
-|内容|content|
-|列表|list|
-|排行|rank|
-|商标|logo|
-|幻灯片|slide|
-|提示|tip/msg/hint|
-|注册|register|
-|弹出框|dialog/model|
-|合作伙伴|partner|
-|工具条|toolbar|
-|标语|banner|
-|版权|copyright|
-|评论|comment|
-|面板|panel|
-|手风琴|accordion|
-|加载|loading|
-|头像|avatar|
-|标签|tag|
-|表格|table|
-
+[模块相关例子](./examples/module.md)
 
 ### 欢迎补充
-毕竟一个人的能力是有限的，希望得到大家的支持，来为代码可维护性做一点努力
 
+毕竟一个人的能力是有限的，希望得到大家的支持，来为代码可维护性做一点努力
 
 ### 参考资料
 [UI组件规范](http://huixisheng.github.io/fed/docs/ui-coding-style.html)
