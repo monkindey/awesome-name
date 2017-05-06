@@ -74,6 +74,7 @@
 	"picture": "pic",
 	"position": "pos",
 	"property": "prop",
+	"recommendation": "rec",
 	"register": "reg",
 	"remove": "rm",
 	"repository": "repo",
